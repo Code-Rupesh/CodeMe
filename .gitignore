@@ -4,7 +4,7 @@
 </head>
 <body>
 <h1> I Love coding</h1>
-<marque direction='left'> I Love You </marque>
+<marquee direction='left'> I Love You </marquee>
 <body bgcolor='red'> 
 </body>
 </html>
